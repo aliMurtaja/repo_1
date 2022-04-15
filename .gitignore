@@ -3,6 +3,7 @@ file_ignore_1.txt
 fileFirstTrackThenIgnore.txt
 
 # ignore folder
+
 ignoreFol/
 
 # ignore based on wild card rules 
