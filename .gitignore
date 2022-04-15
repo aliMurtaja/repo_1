@@ -1,0 +1,8 @@
+# ignore only a file
+file_ignore_1.txt
+
+# ignore folder
+ignoreFol/
+
+# ignore based on wild card rules 
+*.css
