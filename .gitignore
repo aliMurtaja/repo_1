@@ -1,5 +1,6 @@
 # ignore only a file
 file_ignore_1.txt
+fileFirstTrackThenIgnore.txt
 
 # ignore folder
 ignoreFol/
